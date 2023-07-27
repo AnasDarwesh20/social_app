@@ -25,7 +25,7 @@ Authentication - Firebase storage - Firestore by Firebase .
 
 It was made for all users to share ideas and work together . 
 
-# The goal of this project 
+## The goal of this project 
 
 share people feelings and ideas 
 contact with others 
