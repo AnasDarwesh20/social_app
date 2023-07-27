@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "534139188330",
+    "project_id": "social-app-ed21b",
+    "storage_bucket": "social-app-ed21b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:534139188330:android:da29b5a839563b10b10613",
+        "android_client_info": {
+          "package_name": "com.example.socail_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "534139188330-n06101vtd8d3jvep94icb7abfdjpe08s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCT8_wXKKCy2jEhb1EAIVdEKmxsNp5tCvY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "534139188330-n06101vtd8d3jvep94icb7abfdjpe08s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
