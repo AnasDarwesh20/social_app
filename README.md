@@ -1,16 +1,32 @@
-# socail_app
+## socail_app
 
-Simple social app
+## About the project 
 
-## Getting Started
+This is a description of what the project is for ...
 
-This project is a starting point for a Flutter application.
+# What is this project 
 
-A few resources to get you started if this is your first Flutter project:
+It is a simple social application includes 
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+  - Feeds screen shows new posts
+  - chats
+  - profile
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+    you can do chat with outher users and share your posts in feeds .
+
+# How does it work ? 
+
+this app developed using flutter and firebase 
+
+UI and UX made by flutter 
+Authentication - Firebase storage - Firestore by Firebase . 
+
+# Who will use this app ? 
+
+It was made for all users to share ideas and work together . 
+
+# The goal of this project 
+
+share people feelings and ideas 
+contact with others 
+
